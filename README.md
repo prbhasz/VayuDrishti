@@ -23,4 +23,4 @@ SkyGuard is a real-time monitoring and anomaly detection dashboard designed to m
 3. Launch the dashboard: `streamlit run app.py`
 
 ## Live Demo
-[Link to your Streamlit Cloud URL will go here]
+vaayudrishti.streamlit.app
